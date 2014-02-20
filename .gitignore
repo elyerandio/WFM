@@ -1,0 +1,8 @@
+*~
+dist/*
+dist.old/*
+build/*
+CVS/*
+.idea/*
+Database/*
+.WFM*
